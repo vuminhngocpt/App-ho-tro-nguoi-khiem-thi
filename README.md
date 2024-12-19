@@ -1,1 +1,3 @@
-# App-ho-tro-nguoi-khiem-thi
+### Trên Đây Là Các Ứng Dụng Mà Tôi Tổng Hợp Được Để Các Bạn Khiếm Thị Và Các Tình Nguyện Viên Có Thể Cùng Nhau Chia Sẻ Và Sử Dụng . Lời Khuyên , Người Khiếm Thị Sử Dụng Máy Android Sẽ Thuận Tiện Hơn Sử Dụng iPhone Đối Với iPhone Bạn Phải Có iPhone 7 đổ lên và có phiên bản hệ điều hành mới nhất mới có tiếng việt , hãy nhờ người xung quanh bạn cập nhật các ứng dụng và hệ điều hành mới nhất để được hỗ trợ tốt nhất lời khuyên bạn nên có 2 điện thoại sẽ thuận tiện hơn khi sử dụng , xin lỗi tôi viết hơi khó nghe vì tôi muốn viết chi tiết cho máy đọc có thể đọc được , người viết Vũ Minh Ngọc
+
+#### Thư Mục 1 : Đọc Mệnh Giá Tiền 
