@@ -11,4 +11,4 @@ Hỗ Trợ Tôi : Ngân Hàng Mbbank . Số Tài Khoản : 0961900904 .Tên : Vu
   #### Ứng Dụng Tự Phát Nhạc BXH Zing Mp3
 
 
-[Tải Về Tự Phát Nhạc Zing Mp3 Phiên Bản V4](https://www.icloud.com/shortcuts/0474c8db5ce04b038cae849bf5aa1b92)
+[Tải Về Tự Phát Nhạc Zing Mp3 Phiên Bản IOS15+V5 Cập Nhật 11/04/2025](https://www.icloud.com/shortcuts/f51bfded6c4640b8bbb1057a6f316116)
