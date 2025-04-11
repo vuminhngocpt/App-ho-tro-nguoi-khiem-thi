@@ -8,6 +8,11 @@ Hỗ Trợ Tôi : Ngân Hàng Mbbank . Số Tài Khoản : 0961900904 .Tên : Vu
 
   ## Đành Cho iPhone 
 
+  #### Kho Ứng Dụng VMNiT
+
+[Tải Về Kho Ứng Dụng ](https://www.icloud.com/shortcuts/fec945db9918409888a85b10e0551601)
+
+
   #### Ứng Dụng Tự Phát Nhạc BXH Zing Mp3
 
 
