@@ -1,4 +1,4 @@
-### Xin Chào Trang Web Này Hỗ Trợ Cho Người Khiếm Thị Sử Dụng Điện Thoại Thông Minh Tiện Lợi Hơn
+### Xin Chào . Các Ứng Dụng Phím Tắt Hay Cho iPhone 
 
 2025©️VMNiT-VMNStudio95
 
