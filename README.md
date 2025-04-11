@@ -4,6 +4,8 @@
 
 Người Viết Ứng Dụng : Vu Minh Ngoc 
 
+Hỗ Trợ Tôi : Ngân Hàng Mbbank . Số Tài Khoản : 0961900904 .Tên : Vu Minh Ngoc
+
 #### Đành Cho iPhone 
 
 [Tải Về Tự Phát Nhạc Zing Mp3](https://www.icloud.com/shortcuts/5dc94c8292174ca9a0ca4b4683bacd38)
