@@ -1,4 +1,4 @@
-### Xin Chào . Các Ứng Dụng Phím Tắt Hay Cho iPhone 
+### Xin Chào . Các Ứng Dụng Phím Tắt Hay Phát Hành Bởi VMN
 
 2025©️VMNiT-VMNStudio95
 
