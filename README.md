@@ -28,6 +28,10 @@ Hỗ Trợ Tôi : Ngân Hàng Mbbank . Số Tài Khoản : 0961900904 .Tên : Vu
 
 [ Tải Vè Gửi Vị Trí ](https://www.icloud.com/shortcuts/d3ef316f671b4d969d6e0da625e09485)
 
+  #### Ứng Dụng Hẹn Giờ IOS 18.4 iPhone XS Trở Lên
+
+[ Tải Về Hẹn Giờ V2 ](https://www.icloud.com/shortcuts/1d571668e9364feebffa2ec0c5a49814)
+
 
 
        ©️2025 VMNit | Github | Minh Ngoc
