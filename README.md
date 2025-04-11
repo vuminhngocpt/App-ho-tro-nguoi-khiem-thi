@@ -10,7 +10,7 @@ Hỗ Trợ Tôi : Ngân Hàng Mbbank . Số Tài Khoản : 0961900904 .Tên : Vu
   
   ## Hướng Dẫn 
 
-[xem hướng dẫn iPhone](test)
+[Xem hướng dẫn iPhone](https://github.com/vuminhngocpt/huongdanphimtatiphone)
 
 
   #### Kho Ứng Dụng VMNiT
