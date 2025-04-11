@@ -7,6 +7,11 @@ Người Viết Ứng Dụng : Vu Minh Ngoc
 Hỗ Trợ Tôi : Ngân Hàng Mbbank . Số Tài Khoản : 0961900904 .Tên : Vu Minh Ngoc
 
   ## Đành Cho iPhone 
+  
+  ## Hướng Dẫn 
+
+[xem hướng dẫn iPhone](test)
+
 
   #### Kho Ứng Dụng VMNiT
 
