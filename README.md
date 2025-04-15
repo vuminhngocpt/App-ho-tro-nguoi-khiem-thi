@@ -37,6 +37,9 @@ Hỗ Trợ Tôi : Ngân Hàng Mbbank . Số Tài Khoản : 0961900904 .Tên : Vu
 
 [ Tải Về Hẹn Giờ V2 ](https://www.icloud.com/shortcuts/1d571668e9364feebffa2ec0c5a49814)
 
+  #### Ứng dụng tìm kiếm nhanh Youtube
+
+[ Tải về tìm kiếm youtube ](https://www.icloud.com/shortcuts/b0961b76453c4922be544befe00f4fee)
 
 
        ©️2025 VMNit | Github
